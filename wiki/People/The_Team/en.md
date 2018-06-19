@@ -28,7 +28,7 @@ Active
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeping and moderation advisor |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web developer & [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organisation, and [osu!academy](/wiki/osu!academy) professor |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Cool stuff maker-guy extraordinaire |
